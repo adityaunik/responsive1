@@ -64,12 +64,15 @@ h3{
     display: none;
 }
 
+#list li{
+    background-color: rgb(82, 82, 85);
+    border-radius: 6px;
+}
+
 #list li a{
     text-decoration: none;
     color: white;
-    padding: 0.8rem;
-    background-color: rgb(82, 82, 85);
-    border-radius: 6px;
+    padding: 0.8rem;  
 }
 
 #cross{
